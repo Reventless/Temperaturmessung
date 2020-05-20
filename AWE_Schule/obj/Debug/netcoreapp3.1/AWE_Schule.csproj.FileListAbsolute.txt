@@ -1,0 +1,11 @@
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\bin\Debug\netcoreapp3.1\AWE_Schule.exe
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\bin\Debug\netcoreapp3.1\AWE_Schule.deps.json
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\bin\Debug\netcoreapp3.1\AWE_Schule.runtimeconfig.json
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\bin\Debug\netcoreapp3.1\AWE_Schule.runtimeconfig.dev.json
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\bin\Debug\netcoreapp3.1\AWE_Schule.dll
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\bin\Debug\netcoreapp3.1\AWE_Schule.pdb
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\obj\Debug\netcoreapp3.1\AWE_Schule.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\obj\Debug\netcoreapp3.1\AWE_Schule.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\obj\Debug\netcoreapp3.1\AWE_Schule.AssemblyInfo.cs
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\obj\Debug\netcoreapp3.1\AWE_Schule.dll
+C:\Users\steph\source\repos\AWE_Schule\AWE_Schule\obj\Debug\netcoreapp3.1\AWE_Schule.pdb
